@@ -1,0 +1,31 @@
+.navbar-brand img{
+    width: 100px;
+    height:100px;
+}
+
+#carouselExampleSlidesOnly img {
+    width:100%;
+    height:600px;
+
+}
+
+#imagembody img {
+   height: 300px
+   
+   
+}
+
+body {
+    background: rgba(0, 0, 255, 0.055)
+}
+    
+#imagemportal img {
+    height:300px;
+    width:100%;
+
+}
+
+
+#imagensindex img{
+    height:400px;
+}
